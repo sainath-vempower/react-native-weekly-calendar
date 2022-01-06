@@ -31,7 +31,7 @@
   "dependencies": {
     "moment": "^2.24.0",
     "prop-types": "^15.5.7",
-    "@react-native-community/datetimepicker": "~2.3.0"
+    "@react-native-community/datetimepicker": "^5.1.0"
   },
   "devDependencies": {
     "react": "~16.9.0",
